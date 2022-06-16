@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PaymentAPI.Models/1.0.0": {
+        "runtime": {
+          "PaymentAPI.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentAPI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

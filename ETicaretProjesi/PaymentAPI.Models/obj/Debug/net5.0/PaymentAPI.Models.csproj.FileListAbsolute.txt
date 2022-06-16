@@ -1,0 +1,12 @@
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\bin\Debug\net5.0\PaymentAPI.Models.deps.json
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\bin\Debug\net5.0\PaymentAPI.Models.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\bin\Debug\net5.0\PaymentAPI.Models.pdb
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.csproj.AssemblyReference.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.AssemblyInfoInputs.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.AssemblyInfo.cs
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\refint\PaymentAPI.Models.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\PaymentAPI.Models.pdb
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\PaymentAPI.Models\obj\Debug\net5.0\ref\PaymentAPI.Models.dll

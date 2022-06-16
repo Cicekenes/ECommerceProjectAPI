@@ -1,0 +1,12 @@
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\bin\Debug\net5.0\ETicaretProjesi.Core.deps.json
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\bin\Debug\net5.0\ETicaretProjesi.Core.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\bin\Debug\net5.0\ETicaretProjesi.Core.pdb
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.csproj.AssemblyReference.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.AssemblyInfoInputs.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.AssemblyInfo.cs
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.csproj.CoreCompileInputs.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ref\ETicaretProjesi.Core.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\ETicaretProjesi.Core.pdb
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\ETicaretProjesi.Core\obj\Debug\net5.0\refint\ETicaretProjesi.Core.dll

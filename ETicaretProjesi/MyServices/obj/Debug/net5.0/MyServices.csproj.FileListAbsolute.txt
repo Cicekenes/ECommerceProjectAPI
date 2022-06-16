@@ -1,0 +1,12 @@
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\bin\Debug\net5.0\MyServices.deps.json
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\bin\Debug\net5.0\MyServices.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\bin\Debug\net5.0\MyServices.pdb
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.csproj.AssemblyReference.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.AssemblyInfoInputs.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.AssemblyInfo.cs
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\ref\MyServices.dll
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\MyServices.pdb
+C:\Users\enes.cicek\source\repos\ETicaretProjesi\MyServices\obj\Debug\net5.0\refint\MyServices.dll
